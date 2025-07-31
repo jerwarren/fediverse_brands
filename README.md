@@ -1,4 +1,4 @@
-# Early version of "Brands on the Fediverse" blocklist people who also hate seeing brands on the fediverse can use to eradicate them
+# Early version of "Brands on the Fediverse" blocklist, that people who also hate seeing brands on the fediverse can use to eradicate them
 
 Just download the blocks.csv (or mutes.csv) file and import them into your fediverse account (either as blocks or mutes.)
 
